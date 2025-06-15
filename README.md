@@ -2,9 +2,14 @@
 
 **AI/ML & Quantum Computing Enthusiast | Full-Stack MERN Developer**
 
-🚀 Passionate about developing intelligent systems and high-performance web applications that merge cutting-edge technologies with elegant design.
+🚀 I’m passionate about engineering intelligent solutions that seamlessly integrate Artificial Intelligence, Machine Learning, and Quantum Computing with full-stack web development. I specialize in building scalable, high-performance applications that combine deep tech with clean, responsive UI/UX design—crafting digital experiences that are not just functional, but futuristic.
 
----
+## 🔗 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jasub787@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspalsingh772)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Jaspal_singh0)
+
 
 ## 🤖 AI/ML & Quantum Tech Stack
 ![QML](https://img.shields.io/badge/-Quantum%20Machine%20Learning-black?style=flat-square&logo=quantconnect)
@@ -55,11 +60,7 @@
 
 ---
 
-## 🔗 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jasub787@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspalsingh772)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Jaspal_singh0)
 
 ---
 
