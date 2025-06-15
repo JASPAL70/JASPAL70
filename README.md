@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaspal Singh
 
-<!--
-**JASPAL70/JASPAL70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML & Quantum Computing Enthusiast | Full-Stack MERN Developer**
 
-Here are some ideas to get you started:
+Passionate about building intelligent systems and responsive web applications using React, Node.js, TensorFlow, and Qiskit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with Me
+- 📧 [Email](mailto:jasub787@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaspalsingh772)
+- 🐦 [Twitter/X](https://x.com/Jaspal_singh0)
+
+---
+
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![Qiskit](https://img.shields.io/badge/-Qiskit-black?style=flat-square&logo=ibm)
+
