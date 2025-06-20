@@ -31,7 +31,6 @@ I specialize in building scalable, high-performance applications that combine de
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
 ![Qiskit](https://img.shields.io/badge/-Qiskit-black?style=flat-square&logo=ibm)
 ![PennyLane](https://img.shields.io/badge/-PennyLane-black?style=flat-square&logo=)
-![Gemini API](https://img.shields.io/badge/-Gemini%20API-black?style=flat-square&logo=google)
 ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-black?style=flat-square&logo=google)
 
 ---
