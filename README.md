@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jaspal Singh
 
-**AI/ML & Quantum Computing Enthusiast | Full-Stack MERN Developer**
+**Aspiring Data Scientist | ML & Quantum Computing Enthusiast | MERN Stack Developer **
 
-🚀 I’m passionate about engineering intelligent solutions that seamlessly integrate **Artificial Intelligence**, **Machine Learning**, and **Quantum Computing** with **full-stack web development**.  
+🚀 I’m passionate about engineering intelligent solutions that seamlessly integrate **Data Science**, **Machine Learning**, and **Quantum Computing** with **full-stack web development**.  
 I specialize in building scalable, high-performance applications that combine deep tech with clean, responsive **UI/UX design**—crafting digital experiences that are not just functional, but futuristic.
 
 <p align="center">
